@@ -1,9 +1,9 @@
 # remote-directory-status
 
 usage:
-pip3 install watchdog
-python3 app1.py localhost 1234
-python3 app2.py ./some/dir 127.0.0.1 1234
+pip3 install watchdog;
+python3 app1.py localhost 1234;
+python3 app2.py ./some/dir 127.0.0.1 1234;
 
 Задача была поставлена так:
 
